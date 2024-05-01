@@ -1,0 +1,56 @@
+/* Add padding to the form */
+.card {
+    padding: 20px;
+  }
+  
+  /* Styling for the registration form heading */
+  h1 {
+     /* Change to your desired color */
+     padding: 20px;
+    font-size: 24px; /* Change to your desired font size */
+    margin-bottom: 20px; /* Add some space after the heading */
+  }
+  
+  h2 {
+   /* Change to your desired color */
+   padding: 20px;
+    font-size: 20px; /* Change to your desired font size */
+    margin-top: 20px; /* Add some space before the heading */
+    margin-bottom: 10px; /* Add some space after the heading */
+  }
+  
+  h3 {
+    /* Change to your desired color */
+    padding: 20px;
+    font-size: 16px; /* Change to your desired font size */
+    margin-top: 20px; /* Add some space before the heading */
+    margin-bottom: 10px; /* Add some space after the heading */
+  }
+  
+  /* Add padding and margin to the form fields */
+  .form-group {
+    padding: 20px;
+    margin-bottom: 15px;
+    margin-bottom: 5px; /* Add space between form fields */
+  }
+  
+  /* Style the submit button */
+  .btn-primary {
+    padding: 20px;
+    background-color: blue; /* Change to your desired color */
+    border-color: blue; /* Change to your desired color */
+  }
+  
+  /* Change button text color */
+  
+  .btn-primary:hover {
+    color: white;
+  }
+  
+  /* Add some space above and below the form */
+  .container {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
